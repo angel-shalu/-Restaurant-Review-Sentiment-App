@@ -71,7 +71,9 @@ cd restaurant-sentiment-app
 Create a virtual environment (recommended):
 
 python -m venv venv
+
 source venv/bin/activate   # On Mac/Linux
+
 venv\Scripts\activate      # On Windows
 
 
@@ -86,15 +88,15 @@ pip install -r requirements.txt
 
 Example requirements.txt:
 
-numpy
-pandas
-matplotlib
-seaborn
-nltk
-scikit-learn
-streamlit
-xgboost
-lightgbm
+numpy,
+pandas,
+matplotlib,
+seaborn,
+nltk,
+scikit-learn,
+streamlit,
+xgboost,
+lightgbm,
 
 
 
