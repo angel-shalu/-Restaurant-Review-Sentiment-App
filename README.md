@@ -64,7 +64,7 @@ CountVectorizer
 
 Clone the repository:
 
-git clone https://github.com/your-username/restaurant-sentiment-app.git
+git clone https://(https://github.com/angel-shalu/-Restaurant-Review-Sentiment-App)
 cd restaurant-sentiment-app
 
 
@@ -143,4 +143,4 @@ Add multi-class sentiment (positive, neutral, negative).
 
 Shalini Kumari
 
-📧 [Your Email or LinkedIn/GitHub Profile]
+📧 [Email](shalinikumari8789@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shalini-kumari-a237b3276/)/[GitHub Profile](https://github.com/angel-shalu)]
