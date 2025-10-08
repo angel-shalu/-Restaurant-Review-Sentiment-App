@@ -4,3 +4,4 @@ pandas
 re
 nltk
 scikit-learn
+--upgrade pip
