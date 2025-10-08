@@ -23,11 +23,17 @@ CountVectorizer
 
 # Machine Learning Models:
    Logistic Regression
+   
    K-Nearest Neighbors (KNN)
+   
    Random Forest
+   
    Decision Tree
+   
    Support Vector Machine (SVM)
+   
    Naive Bayes
+   
    (Optional) XGBoost, LightGBM (if installed)
 
 # Model Evaluation:
